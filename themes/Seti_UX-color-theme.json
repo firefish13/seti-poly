@@ -1,0 +1,14 @@
+{
+	"tokenColors": "./Seti.tmTheme",
+	"colors": {
+		"editor.background": "#0d1011",
+		"editor.foreground": "#0d1011",
+		"editorCursor.foreground": "#181f23",
+		"editorWhitespace.foreground": "#181f23",
+		"editor.lineHighlightBackground": "#252f35",
+		"editor.selectionBackground": "#252f35",
+		"editor.inactiveSelectionBackground": "#2F627750",
+		"editorIndentGuide.background": "#4f99d340"
+	},
+	"name": "Seti_UX"
+}
