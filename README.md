@@ -1,4 +1,4 @@
-#### This is import from seti-ux from sublime text.
+#### This is import of seti-ux from sublime text.
 
 [info: Seti_ST3](https://github.com/ctf0/Seti_ST3)
 
