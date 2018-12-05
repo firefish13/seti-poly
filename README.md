@@ -8,3 +8,5 @@ This theme has been imported to vscode thoroughly for personal use and yet i hav
 Just in case if you stumble onto this repo and find it liking, there is the icon themes that i would recommand to use. 
 
 [info: Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+this theme don't work on windows/mac
