@@ -171,7 +171,8 @@
                     <key>foreground</key>
                     <string>#7292a1</string>
                     <key>background</key>
-                    <string>#29394060</string>
+                    <string>#3B4C54</string>
+                    <!-- <string>#29394060</string> -->
                 </dict>
             </dict>
             <dict>
@@ -552,10 +553,25 @@
                     <!-- <string>#f68600</string> -->
                 </dict>
             </dict>
-
-            <!-- ====================================
+            <!-- 
+            ====================================
+            > TYPESCRIPT
+            ====================================== 
+            -->
+            <dict>
+                <key>scope</key>
+                <string>keyword.control.flow.ts</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#f68600</string>
+                </dict>
+            </dict> 
+            <!-- 
+            ====================================
             HTML
-            ====================================== -->
+            ====================================== 
+            -->
 
             <!-- = -->
             <dict>
