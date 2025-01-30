@@ -53,7 +53,6 @@
                     <string>#ffd20080</string>
                     <key>shadow</key>
                     <string>#00000010</string>
-
                     <key>phantomCss</key>
                     <string><![CDATA[ html {position: relative; padding: 10px;} ]]></string>
                     <key>popupCss</key>
@@ -64,7 +63,6 @@
             <!-- ====================================
             Other
             ====================================== -->
-
             <!-- (...) -->
             <dict>
                 <key>scope</key>
@@ -333,6 +331,33 @@
             </dict>
             <dict>
                 <key>scope</key>
+                <string>meta.block variable.other</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#909CB5</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>scope</key>
+                <string>support.other.variable string.other.link</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#909CB5</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>scope</key>
+                <string>entity.name.function meta.function-call variable.function support.function keyword.other.special-method</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#82AAFF</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>scope</key>
                 <string>variable.other</string>
                 <key>settings</key>
                 <dict>
@@ -340,7 +365,6 @@
                     <string>#905CC4</string>
                 </dict>
             </dict>
-
             <!-- global tags -->
             <dict>
                 <key>scope</key>
@@ -442,7 +466,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#a074c4</string>
+                    <string>#f68600</string>
                 </dict>
             </dict>
             <dict>

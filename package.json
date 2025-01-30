@@ -1,15 +1,23 @@
 {
-    "name": "seti-ux",
+    "name": "seti-poly",
     "displayName": "Seti_poly",
     "description": "seti poly theme",
     "version": "0.0.1",
-    "publisher": "sihyun",
+    "publisher": "mutekey",
     "engines": {
         "vscode": "^1.24.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mute-key/seti-poly"
+    },
+    "content": {
+        "baseContentUrl": "https://github.com/mute-key/seti-poly/blob/master/",
+        "baseImagesUrl": "https://github.com/mute-key/seti-poly/raw/master/"
+    },
     "contributes": {
         "themes": [
             {
