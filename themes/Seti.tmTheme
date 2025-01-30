@@ -567,6 +567,30 @@
                     <string>#f68600</string>
                 </dict>
             </dict> 
+            <dict>
+                <key>name</key>
+                <string>Other</string>
+                <key>scope</key>
+                <string>entity.name.type.module.ts</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#905CC4</string>
+                </dict>
+            </dict> 
+            <dict>
+                <key>name</key>
+                <string>Other</string>
+                <key>scope</key>
+                <string>entity.name.type.ts</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#905CC4</string>
+                </dict>
+            </dict> 
+            
+            
             <!-- 
             ====================================
             HTML
