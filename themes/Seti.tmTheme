@@ -568,6 +568,26 @@
                 </dict>
             </dict> 
             <dict>
+                <key>scope</key>
+                <string>meta.type.function.return.ts entity.name.type.module.ts, meta.type.function.return.ts entity.name.type.ts, meta.return.type.arrow.ts entity.name.type.module.ts, meta.return.type.arrow.ts entity.name.type.ts</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#ffffff</string>
+                </dict>
+            </dict> 
+            <dict>
+                <key>name</key>
+                <string>Other</string>
+                <key>scope</key>
+                <string>meta.parameters.ts variable.parameter.ts</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#909CB5</string>
+                </dict>
+            </dict> 
+            <dict>
                 <key>name</key>
                 <string>Other</string>
                 <key>scope</key>
