@@ -5,7 +5,7 @@
     "version": "0.0.203",
     "publisher": "mutekey",
     "engines": {
-        "vscode": "^1.24.0"
+        "vscode": "^1.96.0"
     },
     "categories": [
         "Themes"
@@ -23,7 +23,8 @@
             {
                 "label": "Seti_poly",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Seti_UX-color-theme.json"
+                "path": "./themes/Seti_UX-color-theme.json",
+                "semanticHighlighting": false
             }
         ]
     }

@@ -51,7 +51,6 @@
         "editor.selectionHighlightBackground":          "#252f3539",
         "editorOverviewRuler.border":                   "#4f99d300",
         "editorGroup.border":                           "#4f99d333",
-        "editorGroup.background":                       "#1c0101",
         "editorCursor.foreground":                      "#aaaaaaaa",
         "editorWhitespace.foreground":                  "#202729",
         "editorLineNumber.foreground":                  "#4f99d333",
@@ -67,7 +66,6 @@
         "editorSuggestWidget.highlightForeground":      "#999999",
         "editorSuggestWidget.selectedBackground":       "#4f99d3d9",
         "editorLink.activeForeground":                  "#0d1011",
-        "editorIndentGuide.background":                 "#1b5b7040",
         // 
         "debugExceptionWidget.background":              "#ffb042",
         "debugExceptionWidget.border":                  "#ffb042",

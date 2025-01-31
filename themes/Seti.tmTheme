@@ -491,7 +491,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#009FFF</string>
+                    <string>#ffd200</string>
                 </dict>
             </dict>
             <dict>
@@ -566,7 +566,7 @@
                     <key>foreground</key>
                     <string>#f68600</string>
                 </dict>
-            </dict> 
+            </dict>
             <dict>
                 <key>scope</key>
                 <string>meta.type.function.return.ts entity.name.type.module.ts, meta.type.function.return.ts entity.name.type.ts, meta.return.type.arrow.ts entity.name.type.module.ts, meta.return.type.arrow.ts entity.name.type.ts</string>
@@ -575,7 +575,7 @@
                     <key>foreground</key>
                     <string>#ffffff</string>
                 </dict>
-            </dict> 
+            </dict>
             <dict>
                 <key>name</key>
                 <string>Other</string>
@@ -586,37 +586,56 @@
                     <key>foreground</key>
                     <string>#909CB5</string>
                 </dict>
-            </dict> 
+            </dict>
             <dict>
                 <key>name</key>
                 <string>Other</string>
                 <key>scope</key>
-                <string>entity.name.type.module.ts</string>
+                <string>entity.name.type.module.ts, entity.name.type.ts</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
                     <string>#905CC4</string>
                 </dict>
-            </dict> 
+            </dict>
             <dict>
                 <key>name</key>
                 <string>Other</string>
                 <key>scope</key>
-                <string>entity.name.type.ts</string>
+                <string>new.expr.ts keyword.operator.new.ts, meta.return.type.arrow.ts keyword.operator.type.ts</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#905CC4</string>
+                    <string>#cd3f45</string>
                 </dict>
-            </dict> 
-            
-            
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Other</string>
+                <key>scope</key>
+                <string>meta.brace.round.ts</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#ffd200</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Other</string>
+                <key>scope</key>
+                <string>meta.block.ts keyword.operator.relational.ts</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#1CFF7B</string>
+                </dict>
+            </dict>
             <!-- 
             ====================================
             HTML
             ====================================== 
             -->
-
             <!-- = -->
             <dict>
                 <key>scope</key>
