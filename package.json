@@ -2,7 +2,7 @@
     "name": "seti-poly",
     "displayName": "Seti_poly",
     "description": "seti poly theme",
-    "version": "0.0.203",
+    "version": "0.0.2.05",
     "publisher": "mutekey",
     "engines": {
         "vscode": "^1.96.0"
@@ -18,6 +18,9 @@
         "baseContentUrl": "https://github.com/mute-key/seti-poly/blob/master/",
         "baseImagesUrl": "https://github.com/mute-key/seti-poly/raw/master/"
     },
+    "extensionDependencies": [
+        "mutekey.cursorlinehighlight"
+    ],
     "contributes": {
         "themes": [
             {
