@@ -2,7 +2,7 @@
     "name": "seti-poly",
     "displayName": "Seti_poly",
     "description": "seti poly theme",
-    "version": "0.0.2.05",
+    "version": "0.0.205",
     "publisher": "mutekey",
     "engines": {
         "vscode": "^1.96.0"
